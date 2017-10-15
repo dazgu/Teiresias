@@ -1,5 +1,2 @@
 bin_PROGRAMS = search_t
-search_t_SOURCES = DGStack.cpp DGTeiresias.cpp DGMain.cpp DGStack.h DGTeiresias.h
-search_t_LDADD = ../utility/libws.a
-
-AM_CPPFLAGS = -I$(top_srcdir)/utility
+search_t_SOURCES = DG_util.cpp DGStack.cpp DGTeiresias.cpp DGMain.cpp DG_util.h DGStack.h DGTeiresias.h

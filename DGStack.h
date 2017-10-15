@@ -1,15 +1,3 @@
-/******************************************************************************
-
-    WordSearch/Teiresias
-    Dazhang Gu
-    $Log: DGStack.h,v $
-    Revision 1.3  2007/08/13 17:55:10  gu
-    *** empty log message ***
-
-    Revision 1.2  2007/08/13 17:46:39  gu
-    *** empty log message ***
-
-*******************************************************************************/
 #ifndef TSTACK
 #define TSTACK
 class TStack;

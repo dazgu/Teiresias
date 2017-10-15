@@ -1,24 +1,3 @@
-/******************************************************************************
-
-    WordSearch/Teiresias
-    Dazhang Gu
-    $Log: DGStack.cpp,v $
-    Revision 1.6  2007/09/10 14:22:05  gu
-    *** empty log message ***
-
-    Revision 1.5  2007/08/23 20:45:05  gu
-    *** empty log message ***
-
-    Revision 1.4  2007/08/23 20:42:43  gu
-    *** empty log message ***
-
-    Revision 1.3  2007/08/13 17:55:10  gu
-    *** empty log message ***
-
-    Revision 1.2  2007/08/13 17:46:39  gu
-    *** empty log message ***
-
-*******************************************************************************/
 #include <ctype.h>
 #include <math.h>
 #include <map>

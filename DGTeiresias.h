@@ -1,18 +1,3 @@
-/******************************************************************************
-
-    WordSearch/Teiresias
-    Dazhang Gu
-    $Log: DGTeiresias.h,v $
-    Revision 1.4  2007/09/07 21:10:09  gu
-    *** empty log message ***
-
-    Revision 1.3  2007/08/13 17:55:10  gu
-    *** empty log message ***
-
-    Revision 1.2  2007/08/13 17:46:39  gu
-    *** empty log message ***
-
-*******************************************************************************/
 #ifndef TEIRESIAS
 #define TEIRESIAS
 class Teiresias;

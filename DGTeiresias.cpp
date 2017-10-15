@@ -1,15 +1,4 @@
-/******************************************************************************
 
-    WordSearch/Teiresias
-    Dazhang Gu
-    $Log: DGTeiresias.cpp,v $
-    Revision 1.3  2007/08/13 17:55:10  gu
-    *** empty log message ***
-
-    Revision 1.2  2007/08/13 17:46:39  gu
-    *** empty log message ***
-
-*******************************************************************************/
 #include <ctype.h>
 #include <iostream>
 #include <fstream>
